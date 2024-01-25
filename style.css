@@ -1,0 +1,30 @@
+.box{
+  width: 300px;
+  height: 300px;
+  flex-shrink: 0;
+  border: 1px solid #888;
+  background: #FFF;
+  margin-left: 37px;
+  margin-top: 77px;
+  
+}
+p{
+    color: #000;
+text-align: justify;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize;
+}
+h3{
+    color: #F00;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: capitalize;
+text-align: center;
+}
